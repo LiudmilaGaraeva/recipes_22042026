@@ -3,6 +3,7 @@
 1. Основные блюда:
     - [Курица «Пикассо»](picasso_chicken.md)
 	- [Картофель «Айдахо»](idaho_potatoes.md)
+	- [Азу](azu-recipe.md)
 2. Выпечка:
     - [Брауни](brownie.md)
     - [Банановые панкейки](banana_pancakes.md)
